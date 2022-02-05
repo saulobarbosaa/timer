@@ -1,6 +1,6 @@
 # ⏲️ Cronômetro
 
-Esse projeto foi desenvolvido utilizando HTML, CSS E JavaScript e baseia-se em um simples cronômetro com as funções de iniciar, pausar e zerar.
+Esse projeto foi desenvolvido utilizando HTML, CSS e JavaScript e baseia-se em um simples cronômetro com as funções de iniciar, pausar e zerar.
 
 ![image](https://user-images.githubusercontent.com/82117471/152653594-39b90cf7-8c2b-4152-8972-9b0548128d54.png)
 
