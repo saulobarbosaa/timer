@@ -17,3 +17,4 @@ Ao clicar no botão de iniciar, a function "contador" é 'chamada' a cada segund
 
 ## 🔗Confira o projeto no link abaixo:
 
+https://cronometro-saulobarbosa.netlify.app/
